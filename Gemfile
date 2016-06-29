@@ -1,4 +1,6 @@
-source 'https://rubygems.org'
+# replace the gem source
+# source 'https://rubygems.org'
+source 'https://ruby.taobao.org'
 
 gem 'sinatra'
 gem 'sinatra-activerecord'
